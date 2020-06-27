@@ -2,8 +2,8 @@
     box-sizing: border-box;
 }
 h1 {
-    margin-bottom: 15px;
     text-align: center;
+    margin-bottom: 15px;
 }
 body {
     font-family: "Comic Sans MS", cursive, sans-serif;
@@ -15,18 +15,18 @@ body {
 #chicken{
     color:white;
     background-color: #d296ad;
-    border-left:1px solid black;
-    border-bottom:1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     text-align: center;
     float: right;
     width: 30%;
     height: 25px;
 }
 #beef{
-    color:white;
+    color: white;
     background-color: #d02425;
-    border-left:1px solid black;
-    border-bottom:1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     text-align: center;
     float: right;
     width: 30%;
@@ -47,7 +47,7 @@ body {
 }
 #box_1, #box_2, #box_3{
     background-color: lightgrey;
-    border:1px solid black;
+    border: 1px solid black;
     margin: 10px;
 }
 /*Desktop*/
